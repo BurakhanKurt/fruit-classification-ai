@@ -109,18 +109,4 @@ Model eğitimi sırasında aşağıdaki metrikler takip edilir:
 - Weight decay: 0.01
 - Learning Rate Scheduling: ReduceLROnPlateau
 
-## 📝 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-## 👥 Katkıda Bulunma
-
-1. Bu depoyu fork edin
-2. Yeni bir branch oluşturun (`git checkout -b feature/yeniOzellik`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik: X'`)
-4. Branch'inizi push edin (`git push origin feature/yeniOzellik`)
-5. Bir Pull Request oluşturun
-
-## 📞 İletişim
-
-Sorularınız veya önerileriniz için [GitHub Issues](https://github.com/kullaniciadi/meyve-siniflandirma/issues) üzerinden iletişime geçebilirsiniz. 
