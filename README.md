@@ -28,8 +28,8 @@ tqdm>=4.66.0
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/meyve-siniflandirma.git
-cd meyve-siniflandirma
+git clone https://github.com/BurakhanKurt/fruit-classification-ai.git
+cd fruit-classification-ai
 ```
 
 2. Gerekli kütüphaneleri yükleyin:
